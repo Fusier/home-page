@@ -1,0 +1,13 @@
+.nav-links {
+    text-align: center;
+}
+
+.app-bar {
+    color:#0B0C10;
+    position:static;
+}
+
+.typography {
+    variant: title;
+    color: #66FCF1;
+}
